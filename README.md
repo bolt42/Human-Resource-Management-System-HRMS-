@@ -4,6 +4,8 @@ System Functions:
 
 Manage employee records
 
+Tracking creating and modifiying benefits
+
 Facilitate recruitment and onboarding processes
 
 Automate payroll calculations and processing
